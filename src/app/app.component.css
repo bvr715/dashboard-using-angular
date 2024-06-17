@@ -1,0 +1,27 @@
+
+.btn-teal,.bg-teal{
+  background-color: #2d7070 !important;
+}
+
+.text-teal
+{
+  color: teal;
+}
+
+.bg-primary,.btn-primary{
+  background: linear-gradient(45deg,black,cornflowerblue);
+}
+
+.bg-success,.btn-success{
+  background: linear-gradient(45deg,black,green);
+}
+
+.bg-warning,.btn-warning{
+  background: linear-gradient(45deg,black,orange);
+}
+
+.bg-secondary{
+
+  background: linear-gradient(45deg,black,purple);
+
+}
